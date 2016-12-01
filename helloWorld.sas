@@ -4,6 +4,7 @@
 %put third changes;
 %put fourth change;
 %put fifth change;
+%put sixth change;
 
 proc print data=sashelp.class;
 run;
