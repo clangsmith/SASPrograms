@@ -5,3 +5,4 @@ histogram msrp;
 run;
 
 %put hello;
+%put world;
