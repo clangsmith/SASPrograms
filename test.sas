@@ -1,5 +1,5 @@
 /* add a comment */
-title "what's up?";
+title "msrp distribution?";
 proc sgplot data=sashelp.cars;
 histogram msrp;
 run;
