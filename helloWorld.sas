@@ -6,5 +6,9 @@
 %put fifth change;
 %put sixth change;
 
+proc sgplot data=sashelp.cars;
+density msrp;
+run;
+
 proc print data=sashelp.class;
 run;
