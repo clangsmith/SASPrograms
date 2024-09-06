@@ -1,17 +1,17 @@
 Deployment and Admin
     EG: Show depot and standalone installer, how to define profile, and/or adhoc server
     Studio: Show in browser -- just a URL, show both V9 and Viya version to highlight multiple versions
-    VS Code: Google "Download VS Code", show Extensions pane in VS Code, and how to connect to a Viya server
+    VS Code: Google "Download VS Code", show Extensions pane in VS Code, and how to connect to a Viya server. Easy for admin.
 
 The Interface
-    EG: Show menus, panes, code/log/results, flexible window management.
-    Studio: Show menus, panes, code/log/results, flexible window management. Similarities with EG no mistake.
+    EG: Show menus, panes, code/log/results, flexible window management. EG is project based.
+    Studio: Show menus, panes, code/log/results, flexible window management. Similarities with EG no mistake, but not project based.
     VS Code: Show code/log/results.
 
 Programming
-    EG: Code editor, syntax fetures, submission, Git
-    Studio: Code editor, syntax features, submission, Git
-    VS Code: Code editor, syntax features, submission, Git
+    EG: Code editor, syntax fetures, submission, Debugger, Git
+    Studio: Code editor, multiple cursors, syntax features, submission, Python, Debugger, Git
+    VS Code: Code editor, multiple cursors, syntax features, submission, Git
 
 Point and Click
     EG: Show tasks pane, query builder, linear regression
@@ -20,7 +20,7 @@ Point and Click
 
 Flow Building
     EG: Show process flow in saved project
-    Studio: Show flow examples in demo folder
+    Studio: Show flow examples in demo folder, including Python
     VS Code: none
 
 Extensibility
