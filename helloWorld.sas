@@ -1,8 +1,8 @@
 /* add a comment */
-%put hello world;
+%put hello world again;
 
 proc sgplot data=sashelp.cars;
-density msrp;
+    density msrp;
 run;
 
 proc print data=sashelp.class;
