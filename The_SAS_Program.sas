@@ -1,5 +1,5 @@
 /* add a comment */
-title "msrp distribution user7";
+title "msrp distribution w/ density";
 
 proc sgplot data=sashelp.cars;
     histogram msrp;
