@@ -1,0 +1,29 @@
+Deployment and Admin
+    EG: Show depot and standalone installer, how to define profile, and/or adhoc server
+    Studio: Show in browser -- just a URL, show both V9 and Viya version to highlight multiple versions
+    VS Code: Google "Download VS Code", show Extensions pane in VS Code, and how to connect to a Viya server
+
+The Interface
+    EG: Show menus, panes, code/log/results, flexible window management.
+    Studio: Show menus, panes, code/log/results, flexible window management. Similarities with EG no mistake.
+    VS Code: Show code/log/results.
+
+Programming
+    EG: Code editor, syntax fetures, submission, Git
+    Studio: Code editor, syntax features, submission, Git
+    VS Code: Code editor, syntax features, submission, Git
+
+Point and Click
+    EG: Show tasks pane, query builder, linear regression
+    Studio: Show steps pane, query builder, linear regression
+    VS Code: none
+
+Flow Building
+    EG: Show process flow in saved project
+    Studio: Show flow examples in demo folder
+    VS Code: none
+
+Extensibility
+    EG: Custom Tasks, show Sudoku Solver
+    Studio: Custom Steps, show built-in Rank example
+    VS Code: none specific to SAS, but can write own extension
