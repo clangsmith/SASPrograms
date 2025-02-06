@@ -1,5 +1,5 @@
-/* add a comment here again 6 */
-title "msrp distribution report 6";
+/* add a comment here again */
+title "msrp distribution report";
 
 proc sgplot data=sashelp.cars;
     histogram msrp;
